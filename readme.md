@@ -17,15 +17,15 @@ Um scanner de rede escrito em Python que descobre dispositivos ativos na rede, v
     - concurrent.futures
 
 ## Instalação
-    1.Clone o repositório:
-    ```bash
-    git clone https://github.com/kernelgnu/network-scanner.git
-    cd network-scanner
-    ```
-    2.Instale as dependências:
-    ```bash
-    pip install scapy
-    ```
+Clone o repositório:
+```bash
+git clone https://github.com/kernelgnu/network-scanner.git
+cd network-scanner
+```
+Instale as dependências:
+```bash
+pip install scapy
+```
 
 ## Uso
 Execute o script scanner.py para escanear a rede:
